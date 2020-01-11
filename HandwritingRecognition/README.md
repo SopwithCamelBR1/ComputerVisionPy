@@ -1,1 +1,0 @@
-Need to download EMNISt and MNIST datasets for this to work
